@@ -14,7 +14,7 @@ The [link](https://help.github.com/en) for externa documentation.
 
 # Internal link:
 
-The [recipe] (./12-Days-of-Christmas-Cookies-eCookbook.pdf)
+The [recipe](./12-Days-of-Christmas-Cookies-eCookbook.pdf)
 
 # Images:
 
